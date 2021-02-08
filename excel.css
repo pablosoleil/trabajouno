@@ -1,0 +1,128 @@
+body{
+	background: url(fondo1.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+.a1{
+	background-color:;
+	position:absolute;
+	top:10px;
+	left:35%;
+	height:100px;
+	width:450px;
+	border-radius:15px;
+	text-align:center;
+}
+.letra{
+font-family:castellar;
+font-size: 65px;
+font-style: italic;
+text-align: center;
+text-shadow: 
+}
+.a2{
+	background-color:#C6A251;
+	position:absolute;
+	top:320px;
+	left:6%;
+	height:240px;
+	width:460px;
+	border-radius:15px;
+	text-align:center;
+}
+
+.letra2{
+font-family:castellar;
+font-size: 20px;
+font-style: italic;
+text-align: center;
+text-shadow: 
+}
+.a3{
+	background-color:#C6A251;
+	position:absolute;
+	top:320px;
+	left:50%;
+	height:240px;
+	width:600px;
+	border-radius:15px;
+	text-align:center;
+}
+
+.letra3{
+font-family:castellar;
+font-size: 20px;
+font-style: italic;
+text-align: center;
+text-shadow: 
+}
+
+.b1{
+	background-color:;
+	position:absolute;
+	top:240px;
+	left:6%;
+	height:100px;
+	width:450px;
+	border-radius:15px;
+	text-align:center;
+}
+.t1{
+font-family:castellar;
+font-size: 30px;
+font-style: italic;
+text-align: center;
+text-shadow: 
+}
+
+.b2{
+	background-color:;
+	position:absolute;
+	top:250px;
+	left:50%;
+	height:100px;
+	width:450px;
+	border-radius:15px;
+	text-align:center;
+}
+.t2{
+font-family:castellar;
+font-size: 30px;
+font-style: italic;
+text-align: center;
+text-shadow: 
+}
+
+
+	.f1{
+	background-color:;
+	font-family:arial;
+	position:absolute;
+	top:60px;
+	left:70%;
+	height:150px;
+	width:150px;
+	border-radius:20px;
+}
+
+.volver{
+	position: absolute;
+	top: 600px;
+	left: 450px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 200;
+    font-size: 40px;
+    color: #ffffff;
+    background-color: #000000;
+    border: 5px solid #C6A251;
+    border-radius:50px;
+  }
+  .volver:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border: 7px solid #C6A251;
+    border-radius:30px;
+  }

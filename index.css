@@ -1,0 +1,67 @@
+body{
+	background: url(fondo.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+.a1{
+	background-color:;
+	position:absolute;
+	top:75px;
+	left:58%;
+	height:100px;
+	width:450px;
+	border-radius:15px;
+	text-align:center;
+}
+.letra{
+font-family:castellar;
+font-size: 65px;
+font-style: italic;
+text-align: center;
+text-shadow: 
+}
+
+.excel{
+	position: absolute;
+	top: 400px;
+	left: 890px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 200;
+    font-size: 40px;
+    color: #ffffff;
+    background-color: #000000;
+    border: 5px solid #C6A251;
+    border-radius:50px;
+  }
+  .excel:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border: 7px solid #C6A251;
+    border-radius:30px;
+  }
+
+  .funciones{
+	position: absolute;
+	top: 500px;
+	left: 850px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 200;
+    font-size: 40px;
+    color: #ffffff;
+    background-color: #000000;
+    border: 5px solid #C6A251;
+    border-radius:50px;
+  }
+  .funciones:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border: 7px solid #C6A251;
+    border-radius:30px;
+  }
+
+
